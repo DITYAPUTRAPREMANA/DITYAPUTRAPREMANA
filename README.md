@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a developer who studied in the world of web3 🧑‍💻
+NewBie Web3 Developers 🧑‍💻
 
 
 ## 🌐 Socials:
