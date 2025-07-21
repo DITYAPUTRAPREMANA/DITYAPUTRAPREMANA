@@ -1,18 +1,15 @@
 # 💫 About Me:
 I'm an aspiring Web2 & Web3 Developer passionate about building the decentralized future. Currently on my journey to master blockchain technologies and contribute to innovative projects that leverage the power of decentralization.
-
-🎯 What I'm Focused On
+#🎯 What I'm Focused On
 - Blockchain Development: Exploring smart contract development and DApp creation
 - Web3 Technologies: Learning the intricacies of decentralized applications and protocols
 - Continuous Learning: Staying updated with the latest trends in the Web3 ecosystem
 - Community Building: Connecting with fellow developers and contributing to open-source projects
-
-🛠️ Technologies I'm Learning
+#🛠️ Technologies I'm Learning
 - Smart Contracts: Solidity, Ethereum, Motoko, Canister
 - Web3 Frameworks: dfx framework
 - Frontend: React, JavaScript, Laravel, Motoko
 - Backend: Motoko, Rust, Python
-- Development Tools: Cursour, IC CDK, Truffle, MetaMask
 - Blockchain Platforms: Ethereum, ICP
 
 ## 🌐 Socials:
