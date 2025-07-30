@@ -10,11 +10,12 @@ I'm an aspiring Web2 & Web3 Developer passionate about building the decentralize
 - Community Building: Connecting with fellow developers and contributing to open-source projects
   
 🛠️ Technologies I'm Learning
-- Smart Contracts: Solidity, Ethereum, Motoko, Canister
-- Web3 Frameworks: dfx framework
-- Frontend: React, JavaScript, Laravel, Motoko
-- Backend: Motoko, Rust, Python
-- Blockchain Platforms: Ethereum, ICP
+- Smart Contracts: Solidity, Canister
+- Web3 Frameworks: dfx
+- Web2 Frameworks: Vite, Laravel, Codeigneter, Flutter
+- Frontend: React, JavaScript, HTML, CSS, Tailwind, Dart, Typescript
+- Backend: Motoko, Rust, Python, C, C++
+- Blockchain Platforms: Ethereum, ICP, Bitcoin
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uBajkwaR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https:/trizz_ditz/profilecard/?igsh=eTZxZ2JxdTV2dWI4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-premana-putra-7b980a285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adityaPrem19944?t=u2k_alSAIeB9sq2RVef1DA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@trizzkunn_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fisualizerid15@gmail.com) 
