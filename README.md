@@ -13,7 +13,7 @@ I'm an aspiring Web2 & Web3 Developer passionate about building the decentralize
 - Smart Contracts: Solidity, Canister
 - Web3 Frameworks: dfx
 - Web2 Frameworks: Vite, Laravel, Codeigneter, Flutter
-- Frontend: React, JavaScript, HTML, CSS, Tailwind, Dart, Typescript
+- Frontend: React, JavaScript, HTML, CSS, Tailwind, Dart, Typescript, PHP
 - Backend: Motoko, Rust, Python, C, C++, Node js
 - Blockchain Platforms: Ethereum, ICP, Bitcoin
 
