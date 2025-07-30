@@ -1,3 +1,5 @@
+Hi I'm Trizz
+
 # 💫 About Me:
 I'm an aspiring Web2 & Web3 Developer passionate about building the decentralized future. Currently on my journey to master blockchain technologies and contribute to innovative projects that leverage the power of decentralization.
 
